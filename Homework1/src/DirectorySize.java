@@ -1,5 +1,3 @@
-// Jasmine Chin 111717723
-
 import java.io.File;
 import java.util.LinkedList;
 
